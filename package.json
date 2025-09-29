@@ -1,0 +1,54 @@
+{
+  "name": "motorcycle-rider-comm",
+  "version": "1.0.0",
+  "description": "Motorcycle Rider Communication App - Full Stack Application",
+  "private": true,
+  "workspaces": [
+    "Server",
+    "Client"
+  ],
+  "scripts": {
+    "install:all": "npm install && npm run install:server && npm run install:client",
+    "install:server": "cd Server && npm install",
+    "install:client": "cd Client && npm install",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "cd Server && npm run start:dev",
+    "dev:client": "cd Client && npm start",
+    "build": "npm run build:server && npm run build:client",
+    "build:server": "cd Server && npm run build",
+    "build:client": "cd Client && npm run build",
+    "test": "npm run test:server && npm run test:client",
+    "test:server": "cd Server && npm test",
+    "test:client": "cd Client && npm test",
+    "lint": "npm run lint:server && npm run lint:client",
+    "lint:server": "cd Server && npm run lint",
+    "lint:client": "cd Client && npm run lint",
+    "clean": "npm run clean:server && npm run clean:client",
+    "clean:server": "cd Server && rm -rf dist node_modules",
+    "clean:client": "cd Client && rm -rf .expo node_modules",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down",
+    "docker:reset": "docker-compose down -v && docker-compose up -d"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/motorcycle-rider-comm.git"
+  },
+  "keywords": [
+    "motorcycle",
+    "communication",
+    "webrtc",
+    "react-native",
+    "nestjs",
+    "real-time"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
