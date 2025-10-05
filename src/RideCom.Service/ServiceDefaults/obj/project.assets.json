@@ -2030,11 +2030,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.ServiceDefaults\\ServiceDefaults.csproj",
-      "projectName": "ServiceDefaults",
-      "projectPath": "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.ServiceDefaults\\ServiceDefaults.csproj",
+      "projectUniqueName": "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\ServiceDefaults\\Core.csproj",
+      "projectName": "Core",
+      "projectPath": "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\ServiceDefaults\\Core.csproj",
       "packagesPath": "C:\\Users\\u730512\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.ServiceDefaults\\obj\\",
+      "outputPath": "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\ServiceDefaults\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

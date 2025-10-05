@@ -8,5 +8,5 @@ namespace Projects;
 public class AppHost
 {
     private AppHost() { }
-    public static string ProjectPath => """C:\Repos\Personal\RideCom\RideCom.Service\RideCom.Service.AppHost""";
+    public static string ProjectPath => """C:\Repos\Personal\RideCom\src\RideCom.Service\AppHost""";
 }

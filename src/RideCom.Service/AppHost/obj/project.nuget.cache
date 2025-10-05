@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/5Gd3qSmwQ4=",
+  "dgSpecHash": "RXr1mw0mS5A=",
   "success": true,
-  "projectFilePath": "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.AppHost\\AppHost.csproj",
+  "projectFilePath": "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\AppHost\\AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\u730512\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.3.1\\aspire.dashboard.sdk.win-x64.9.3.1.nupkg.sha512",
     "C:\\Users\\u730512\\.nuget\\packages\\aspire.hosting\\9.3.1\\aspire.hosting.9.3.1.nupkg.sha512",

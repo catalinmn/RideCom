@@ -102,6 +102,7 @@ logs
 
 # Editor directories and files
 .vscode/
+.vs/
 .idea/
 *.swp
 *.swo

@@ -18,15 +18,15 @@ using System.Reflection;
     "\\ext\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\u730512\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.3.1\\tools" +
     "\\ext\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\u730512\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.3.1\\tools\\Aspire." +
     "Dashboard.exe")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.AppHost\\obj\\")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\AppHost\\obj\\")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abab9ab7c95adb420edca5ce53ee9014d110f389")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e2dc805d19d48d7860fb83c87acee23dffa9727")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

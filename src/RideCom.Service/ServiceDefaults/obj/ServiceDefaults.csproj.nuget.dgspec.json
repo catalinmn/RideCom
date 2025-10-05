@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.ServiceDefaults\\ServiceDefaults.csproj": {}
+    "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\ServiceDefaults\\ServiceDefaults.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.ServiceDefaults\\ServiceDefaults.csproj": {
+    "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\ServiceDefaults\\ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.ServiceDefaults\\ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\ServiceDefaults\\ServiceDefaults.csproj",
         "projectName": "ServiceDefaults",
-        "projectPath": "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.ServiceDefaults\\ServiceDefaults.csproj",
+        "projectPath": "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\ServiceDefaults\\ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\u730512\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.ServiceDefaults\\obj\\",
+        "outputPath": "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

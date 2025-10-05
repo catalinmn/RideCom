@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.AppHost\\AppHost.csproj": {}
+    "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\AppHost\\AppHost.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.AppHost\\AppHost.csproj": {
+    "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\AppHost\\AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.AppHost\\AppHost.csproj",
+        "projectUniqueName": "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\AppHost\\AppHost.csproj",
         "projectName": "AppHost",
-        "projectPath": "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.AppHost\\AppHost.csproj",
+        "projectPath": "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\AppHost\\AppHost.csproj",
         "packagesPath": "C:\\Users\\u730512\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Personal\\RideCom\\RideCom.Service\\RideCom.Service.AppHost\\obj\\",
+        "outputPath": "C:\\Repos\\Personal\\RideCom\\src\\RideCom.Service\\AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
