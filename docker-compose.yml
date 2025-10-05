@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   postgres:
     image: postgres:15-alpine
@@ -38,15 +36,15 @@ services:
     ports:
       - "3478:3478/udp"
       - "3478:3478/tcp"
-      - "49152-65535:49152-65535/udp"
+      - "40000-40100:40000-40100/udp"
     environment:
       - TURN_USERNAME=testuser
       - TURN_PASSWORD=testpass
     command: >
       -n
       --log-file=stdout
-      --min-port=49152
-      --max-port=65535
+      --min-port=40000
+      --max-port=40100
       --fingerprint
       --lt-cred-mech
       --user=testuser:testpass
